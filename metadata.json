@@ -1,0 +1,6 @@
+{
+  "name": "STUDYOS - Personal AI Learning Operating System",
+  "description": "An intelligent AI-powered learning operating system for students to organize studies, master complex concepts, generate smart notes, practice tests, and track revision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
